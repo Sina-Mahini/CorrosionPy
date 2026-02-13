@@ -1,14 +1,14 @@
 # CorrosionPy 🔬
 
-CorrosionPy is an AI-based tool for subtyping corrosive failures and characterizing failure types in materials.
+CorrosionPy is an AI-based tool for characterizing and subtyping corrosion failures in engineering materials.
 
 ## 📌 Overview
 
-CorrosionPy is a deep learning-based tool designed to assist researchers and engineers in the automated classification of corrosion failure types from SEM images. The current demo version employs a Convolutional Neural Network (CNN) trained on a hybrid dataset of real and synthetically augmented corrosion microscopy images.
+CorrosionPy is a deep learning-based tool that supports researchers and engineers in the characterization and automated classification of fundamental corrosion types using scanning electron microscope (SEM) images. The current demo version uses a Convolutional Neural Network (CNN) trained on a hybrid dataset composed of real SEM micrographs and scientifically realistic augmented images.
 
 ## ✨ Features
 
-- **Automated Corrosion Classification** - Identify and subtype corrosive failure patterns
+- **Automated Corrosion Classification** - Characterize and subtype corrosion failure patterns
 - **Trained on Expert-Labeled Data** - Model built on verified corrosion SEM images
 - **Augmented Training Set** - Robust performance even with limited experimental data
 - **Ready-to-Use Demo** - Test hypotheses and validate against classified benchmark data
@@ -16,9 +16,9 @@ CorrosionPy is a deep learning-based tool designed to assist researchers and eng
 
 ## 🎯 Use Cases
 
-- Failure analysis in materials science
+- Failure analysis in materials science and engineering
 - Corrosion research and characterization
-- Educational tool for microscopy image interpretation
+- Educational tool for electron microscopy image interpretation
 - Benchmark dataset for corrosion classification algorithms
 
 ## 🚀 Quick Start
