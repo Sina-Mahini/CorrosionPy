@@ -1,6 +1,6 @@
 # CorrosionPy 🔬
 
-CorrosionPy is a machine learning framework developed for the automated morphological classification of corrosion failure modes in engineering materials. 
+CorrosionPy is a machine learning (ML) framework developed for the automated morphological classification of corrosion failure modes in engineering materials. 
 By leveraging a custom Deep Convolutional Neural Network (DCNN) architecture, the package enables high-fidelity characterization of degradation patterns directly from Scanning Electron Microscopy (SEM) imagery.
 This demo employs a CNN trained on a mixed dataset of real micrographs and scientifically validated augmented images.
 The tool is designed to bridge the gap between raw microscopic data and metallurgical failure analysis.
