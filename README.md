@@ -6,7 +6,7 @@ This demo employs a CNN trained on a mixed dataset of real micrographs and scien
 The tool is designed to bridge the gap between raw microscopic data and metallurgical failure analysis.
 
 
-## ✨ Features
+## Features
 
 - **Automated Classification** - CNN-based characterization of corrosion patterns
 - **Expert-Labeled Training** - Model validated on verified SEM micrographs
@@ -14,7 +14,7 @@ The tool is designed to bridge the gap between raw microscopic data and metallur
 - **Extensible Framework** - Built on PyTorch, allowing for easy fine-tuning or transfer learning on proprietary alloy-specific datasets.
 
 
-## 🚀 Quick Start
+##  For a Quick Start
 The pipeline requires the following dependencies:
 * `torch` (PyTorch)
 * `torchvision`
